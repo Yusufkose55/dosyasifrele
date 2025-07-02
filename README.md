@@ -1,9 +1,9 @@
 
 # 📂 Dosya Şifreleme / Deşifreleme Uygulaması
 
-Bu proje C# Windows Forms kullanılarak geliştirilmis basit bir *dosya şifreleme ve deşifreleme uygulamasıdır*.Uygulamada kullanıcının belirlediği bir anahtar ile seçilen dosyanın içeriği XOR  işlemi kullanılarak şifrelenir veya deşifre edilir.
+Bu proje C# Windows Forms kullanılarak geliştirdiğim basit bir *dosya şifreleme ve deşifreleme uygulamasıdır*.Uygulamada kullanıcının belirlediği bir anahtar ile seçilen dosyanın içeriği XOR  işlemi kullanılarak şifrelenir veya deşifre edilir.
 
-Bu proje, sifreleme mantığını anlamak ve Windows Forms pratiği yapmak amacıyla hazırlanmıştır.
+Proje, sifreleme mantığını anlamak amacıyla hazırlanmıştır.
 
 ---
 
